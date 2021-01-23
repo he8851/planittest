@@ -1,3 +1,5 @@
+Tester: Joseph He
+
 ASSUMPTION: 
 
 1.	The chrome browser was the default browser
