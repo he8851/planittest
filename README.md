@@ -8,6 +8,7 @@ ASSUMPTION:
 6.  Java SDK 15.0.1 was used for this project and language level was set to 8
 7.  Maven was used for this project (POM.xml is included) 
 8.  TestNG was used for the TestRunner
+9.  Tests were executed in sequence (Test Case 1, 2, 3, 4)
 
 README
 1. Config.properties was to point to the location of Chromedriver.exe and also define the URL
