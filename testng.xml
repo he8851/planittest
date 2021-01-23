@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Planit" parallel="methods" data-provider-thread-count="2" thread-count="1">
+    <test name = "Contact Page Test, Test Case 1 -3 " >
+        <classes>
+            <class name = "tests.ContactPageTest" />
+
+        </classes>
+    </test>
+    <test name = "CheckOut Page Test, Test Case 4">
+        <classes>
+            <class name = "tests.CheckoutPageTest" />
+
+        </classes>
+    </test>
+</suite>
